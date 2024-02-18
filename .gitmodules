@@ -1,0 +1,3 @@
+[submodule "SimpleWeb"]
+    path = SimpleWeb
+    url = https://github.com/lukewhite32/SimpleWeb.git
