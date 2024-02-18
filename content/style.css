@@ -1,0 +1,45 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+
+h2 {
+    text-align: center;
+}
+
+textarea {
+    display: block;
+    width: 95%;
+    margin: 0 auto;
+}
+
+#header {
+    background-color: aqua;
+    border: none;
+}
+
+#header button:hover {
+    border: 2px solid grey;
+}
+
+#nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+#main {
+    padding: 5px;
+    background-color: white;
+    border-radius: 10px;
+    border: 2px solid black;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#submit {
+    margin: auto;
+    
+}
